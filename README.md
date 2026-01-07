@@ -40,7 +40,7 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 ---
 
 ### 📷 Output
-![Region Distribution](images/region_distribution.png)
+![Region Distribution](region_distribution.png)
 
 ---
 
