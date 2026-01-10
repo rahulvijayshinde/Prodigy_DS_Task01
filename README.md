@@ -44,6 +44,38 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 
 ---
 
-### ▶️ How to Run
-```bash
-pip install pandas matplotlib
+## 🔍 Key Insights
+- The dataset shows an uneven distribution of countries across regions
+- Certain regions contain significantly more countries than others
+- Bar charts provide a clear and effective way to visualize categorical data distributions
+
+---
+
+## 📁 Project Structure
+```
+PRODIGY_DS_01/
+│
+├── Metadata_country.csv
+├── region_distribution.png
+├── Task01_Data_Visualization.ipynb
+└── README.md
+```
+---
+
+## 🚀 How to Run the Project
+1. Open **Google Colab**
+2. Upload `Metadata_country.csv`
+3. Open the notebook file
+4. Run all cells sequentially to generate the visualization
+
+---
+
+## 📌 Conclusion
+This project demonstrates the importance of **data visualization** in understanding population-level patterns.  
+Bar charts are an effective tool for summarizing and communicating categorical data insights clearly.
+
+---
+
+## 👤 Author
+**Rahul Shinde**  
+Data Science Intern – Prodigy InfoTech
